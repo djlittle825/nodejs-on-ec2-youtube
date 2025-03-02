@@ -1,4 +1,4 @@
-# Node Hello World Testing Tutorial & Best Online Training 
+# Node Hello World Testing Tutorial & Best Online Resource
 
 Simple node.js app that servers  "Welcome to CLOUD ASEEM  & Credit with Thanks to - A Monk in Cloud"
 
